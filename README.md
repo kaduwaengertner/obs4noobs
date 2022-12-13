@@ -4,5 +4,4 @@ Guia para iniciantes em OBS Studio, para ajudar novos streamers a organizarem e 
 
 # Autor
 
-- **Kadu Waengertner** - _Mad Scientist VBI | PointZero | Elgato | Corsair_
-  - [Twitter](https://twitter.com/kaduwaengertner)
+- **Kadu Waengertner** - _Mad Scientist VBI | PointZero | Elgato | Corsair_ - [@kaduwaengertner](https://twitter.com/kaduwaengertner)
