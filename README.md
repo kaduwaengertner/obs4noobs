@@ -2,18 +2,22 @@ OBS4Noobs - 🚧 Em construção
 
 Guia para iniciantes em OBS Studio, para ajudar novos streamers a organizarem e configurarem sua transmissão e como utilizar conceitos básicos do programa para criação de overlays.
 
+------------
+
 Importante dizer que este 4Noobs foi escrito sendo utilizado a versão **29.0.2** do OBS Studio
+
+------------
 
 > Um workshop de OBS Studio foi feito no dia 16/02/2023 no [**discord**](https://discord.com/invite/5kwDQuv) da [He4rt Developers](https://heartdevs.com/), para não perder os próximos venha fazer part da comunidade!
 
 ## 🗺️ ROADMAP
 
-**[👋 Introdução](/modulos/introducao)**
+**👋 Introdução**
 
  - [Links Úteis](/modulos/introducao/1-links-uteis.md)
  - [Boas Vindas](/modulos/introducao/2-boas-vindas.md)
 
-**[🧰 Conhecendo o Software](/modulos/conhecendo-o-software)**
+**🧰 Conhecendo o Software**
 - [Interface](/modulos/conhecendo-o-software/1-interface.md)
 - [Cenas](/modulos/conhecendo-o-software/2-cenas.md)
 - [Sources](/modulos/conhecendo-o-software/3-sources.md)
@@ -26,13 +30,13 @@ Importante dizer que este 4Noobs foi escrito sendo utilizado a versão **29.0.2*
 - [Plugins](/modulos/conhecendo-o-software/10-plugins.md)
 - [Scripts](/modulos/conhecendo-o-software/11-scripts.md)
 
-**[🎥 Imagem & Áudio](/modulos/imagem-e-audio)**
+**🎥 Imagem & Áudio**
 - [Configurando sua câmera](/modulos/imagem-e-audio/1-configurando-sua-camera.md)
 - [Dicas de Iluminação](/modulos/imagem-e-audio/2-dicas-de-iluminacao.md)
 - [Microfones](/modulos/imagem-e-audio/3-microfones.md)
 - [Indicações](/modulos/imagem-e-audio/4-indicacoes.md)
 
-**[⚙️ Configuração](/modulos/configuracao)**
+**⚙️ Configuração**
 - [Geral](/modulos/configuracao/1-geral.md)
 - [Stream](/modulos/configuracao/2-stream.md)
 - [Output](/modulos/configuracao/3-output.md)
@@ -42,7 +46,7 @@ Importante dizer que este 4Noobs foi escrito sendo utilizado a versão **29.0.2*
 - [Temas](/modulos/configuracao/7-temas.md)
 - [Configurações Avançadas](/modulos/configuracao/8-configuracoes-avancadas.md)
 
-**[🎁 Extra](/modulos/extra)**
+**🎁 Extra**
 - [Alertas](/modulos/extra/1-alertas.md)
 - [Plataformas](/modulos/extra/2-plataformas.md)
 
