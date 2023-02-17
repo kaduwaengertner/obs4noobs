@@ -1,4 +1,4 @@
-![OBS 4 Noobs](/assets/home-header.png)
+![OBS 4 Noobs](/assets/home-header-update.png)
 
 
 > **Warning**
