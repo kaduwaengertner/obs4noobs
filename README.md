@@ -1,14 +1,17 @@
-OBS4Noobs - 🚧 Em construção
+![OBS 4 Noobs](/assets/home-header.png)
+
+> **Warning**
+> 🚧 Em construção
 
 Guia para iniciantes em OBS Studio, para ajudar novos streamers a organizarem e configurarem sua transmissão e como utilizar conceitos básicos do programa para criação de overlays.
 
+
+> **Note**
+> Importante dizer que este 4Noobs foi escrito sendo utilizado a versão **29.0.2** do OBS Studio
+
 ------------
 
-Importante dizer que este 4Noobs foi escrito sendo utilizado a versão **29.0.2** do OBS Studio
-
-------------
-
-> Um workshop de OBS Studio foi feito no dia 16/02/2023 no [**discord**](https://discord.com/invite/5kwDQuv) da [He4rt Developers](https://heartdevs.com/), para não perder os próximos venha fazer parte da comunidade!
+> Um workshop de OBS Studio foi feito no dia 16/02/2023 no [**discord**](https://discord.com/invite/5kwDQuv) da [He4rt Developers](https://heartdevs.com/), para não perder os próximos venha fazer part da comunidade!
 
 ## 🗺️ ROADMAP
 
