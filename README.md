@@ -1,9 +1,7 @@
-![OBS 4 Noobs](/assets/home-header-update.png)
-
+![OBS 4 Noobs](/assets/home-header.png)
 
 > **Warning**
-> Este repositório está em construção
-
+> 🚧 Em construção
 
 Guia para iniciantes em OBS Studio, para ajudar novos streamers a organizarem e configurarem sua transmissão e como utilizar conceitos básicos do programa para criação de overlays.
 
@@ -19,43 +17,42 @@ Guia para iniciantes em OBS Studio, para ajudar novos streamers a organizarem e 
 
 **👋 Introdução**
 
- - [Links Úteis](/modulos/introducao/1-links-uteis.md)
- - [Boas Vindas](/modulos/introducao/2-boas-vindas.md)
+ - Links Úteis
+ - Boas Vindas
 
 **🧰 Conhecendo o Software**
-- [Interface](/modulos/conhecendo-o-software/1-interface.md)
-- [Cenas](/modulos/conhecendo-o-software/2-cenas.md)
-- [Sources](/modulos/conhecendo-o-software/3-sources.md)
-- [Filtros](/modulos/conhecendo-o-software/4-filtros.md)
-- [Transições](/modulos/conhecendo-o-software/5-transicoes.md)
-- [Audio Mixer](/modulos/conhecendo-o-software/6-audio-mixer.md)
-- [Profiles](/modulos/conhecendo-o-software/7-profiles.md)
-- [Scene Collections](/modulos/conhecendo-o-software/8-scene-collections.md)
-- [Docks](/modulos/conhecendo-o-software/9-docks.md)
-- [Plugins](/modulos/conhecendo-o-software/10-plugins.md)
-- [Scripts](/modulos/conhecendo-o-software/11-scripts.md)
+- Interface
+- Cenas
+- Sources
+- Filtros
+- Transições
+- Audio Mixer
+- Profiles
+- Scene Collections
+- Docks
+- [Plugins](/modulos/conhecendo-o-Software/10-plugins.md)
+- Scripts
 
 **🎥 Imagem & Áudio**
-- [Configurando sua câmera](/modulos/imagem-e-audio/1-configurando-sua-camera.md)
-- [Dicas de Iluminação](/modulos/imagem-e-audio/2-dicas-de-iluminacao.md)
-- [Microfones](/modulos/imagem-e-audio/3-microfones.md)
-- [Indicações](/modulos/imagem-e-audio/4-indicacoes.md)
+- Configurando sua câmera
+- Dicas de Iluminação
+- Microfones
+- Indicações
 
 **⚙️ Configuração**
-- [Geral](/modulos/configuracao/1-geral.md)
-- [Stream](/modulos/configuracao/2-stream.md)
-- [Output](/modulos/configuracao/3-output.md)
-- [Áudio](/modulos/configuracao/4-audio.md)
-- [Vídeo](/modulos/configuracao/5-video.md)
-- [Hotkeys](/modulos/configuracao/6-hotkeys.md)
-- [Temas](/modulos/configuracao/7-temas.md)
-- [Configurações Avançadas](/modulos/configuracao/8-configuracoes-avancadas.md)
+- Geral
+- Stream
+- Output
+- Áudio
+- Vídeo
+- Hotkeys
+- Temas
+- Configurações Avançadas
 
 **🎁 Extra**
-- [Alertas](/modulos/extra/1-alertas.md)
-- [Plataformas](/modulos/extra/2-plataformas.md)
-
-------------
+- Alertas
+- Plataformas
+- Recebendo Doações
 
 ## 👤 Sobre o Autor
 
