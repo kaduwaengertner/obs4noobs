@@ -6,7 +6,7 @@ Guia para iniciantes em OBS Studio, para ajudar novos streamers a organizarem e 
 
 ## 🗺️ ROADMAP
 
-**👋 Introdução**
+**[👋 Introdução](/modulos/Introdução)**
 
  - Boas Vindas
 
