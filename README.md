@@ -1,7 +1,9 @@
 ![OBS 4 Noobs](/assets/home-header.png)
 
+
 > **Warning**
-> 🚧 Em construção
+> Este repositório está em construção
+
 
 Guia para iniciantes em OBS Studio, para ajudar novos streamers a organizarem e configurarem sua transmissão e como utilizar conceitos básicos do programa para criação de overlays.
 
@@ -52,6 +54,8 @@ Guia para iniciantes em OBS Studio, para ajudar novos streamers a organizarem e 
 **🎁 Extra**
 - [Alertas](/modulos/extra/1-alertas.md)
 - [Plataformas](/modulos/extra/2-plataformas.md)
+
+------------
 
 ## 👤 Sobre o Autor
 
