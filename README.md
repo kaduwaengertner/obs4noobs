@@ -17,8 +17,8 @@ Guia para iniciantes em OBS Studio, para ajudar novos streamers a organizarem e 
 
 **👋 Introdução**
 
- - Links Úteis
- - Boas Vindas
+ - [Links Úteis](/modulos/introducao/1-links-uteis.md)
+ - [Boas Vindas](/modulos/introducao/2-boas-vindas.md)
 
 **🧰 Conhecendo o Software**
 - Interface
@@ -37,7 +37,7 @@ Guia para iniciantes em OBS Studio, para ajudar novos streamers a organizarem e 
 - Configurando sua câmera
 - Dicas de Iluminação
 - Microfones
-- Indicações
+- [Indicações](/modulos/imagem-e-audio/4-indicacoes.md)
 
 **⚙️ Configuração**
 - Geral
