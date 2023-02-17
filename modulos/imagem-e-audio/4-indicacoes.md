@@ -12,11 +12,9 @@
 # 📷 Câmeras & Webcams
 ||Produto|Tipo|Marca|Preço|Link|
 |--|--|:--:|:--:|:--:|:--:|
-|![Produto](/assets/indicacoes/URL.png)|Produto|Tipo|Marca|R$XXX|[🛒 Comprar](LINK)|
 
 # 💡 Luzes
 ||Produto|Marca|Preço|Link|
 |--|:--:|:--:|:--:|:--:|
-|![Produto](/assets/indicacoes/URL.png)|Produto|Marca|R$XXX|[🛒 Comprar](LINK)|
 
 🚧 Em construção
