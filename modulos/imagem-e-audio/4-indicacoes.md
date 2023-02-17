@@ -1,5 +1,7 @@
 ## 🗂️ Indicações
 
+Abaixo algumas indicações de produtos com base em experiencia pessoal e indicações de amigos, os preços são apenas uma base encontrada em uma rápida busca, caso você encontre algum mais barato aproveite e também verifique se é um lugar confiavel para a compra. Links para compra aqui são apenas para facilitar a vida de quem está procurando algo.
+
 # 🎤 Microfones
 ||Produto|Tipo|Marca|Preço|Link|
 |--|--|:--:|:--:|:--:|:--:|
